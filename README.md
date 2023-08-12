@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="https://myreadme.vercel.app/api/embed/SimoneGuido04?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <!--
 **SimoneGuido04/SimoneGuido04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
